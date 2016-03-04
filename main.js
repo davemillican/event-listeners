@@ -1,4 +1,4 @@
-// GO!
+// GO!  Good
 var textBox = document.querySelector(".answer-box");
 
 textBox.innerHTML += "<button id='newButton'>Hide Nav</button>";
